@@ -8,3 +8,4 @@ Attempting to build long audio files from [animalese.js](https://github.com/Aced
 
 Demo here: [https://rinsworth.github.io/animalese_wasm/](https://rinsworth.github.io/animalese_wasm/)
 
+Build with `wasm-pack build --release --target web`.
